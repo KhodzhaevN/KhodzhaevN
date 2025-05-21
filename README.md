@@ -32,11 +32,6 @@
 </div>
 
 ###
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/NAIL/NAIL/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&animation=fadeIn" alt="Footer">
