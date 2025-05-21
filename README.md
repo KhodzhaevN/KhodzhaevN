@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=5D3FD3&center=true&vCenter=true&width=600&lines=QA+Engineer;Automation+Testing;API+Testing;CI%2FCD+Integration" alt="Animated Title" />
-</div>
 
 ###
 
