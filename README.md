@@ -1,105 +1,87 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+  <img height="250" src="https://i.imgur.com/Jyx5hoG.gif" alt="QA Banner">
 </div>
 
 ###
 
-<h1 align="center">Привет👋 Я Наиль —QA Engineer </h1>
-
-<h3 align="center"> AUTO | Frontend| Backend | Mobile</h3>
+<h1 align="center">QA Engineer | Наиль Ходжаев</h1>
+<h3 align="center">Автоматизация тестирования (Python/Selenium) • API Testing • CI/CD</h3>
 
 ###
 
+<div align="center">
+  <a href="https://t.me/zoom9595">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="25" alt="Telegram">
   </a>
-  <a href="https://t.me/zoom95957" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  <a href="mailto:Naii3301@yandex.ru">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=yandex&logoColor=white" height="25" alt="Email">
   </a>
-  <a href="https://hh.ru/resume/3e7f6414ff0e922cee0039ed1f654e62484254" target="_blank">
-    <img src="https://img.shields.io/badge/Резюме-HH.ru-red?style=for-the-badge&logo=hh.ru&logoColor=white" height="25" alt="hh logo"  />
+  <a href="https://hh.ru/resume/ВАШ_ID">
+    <img src="https://img.shields.io/badge/Резюме-HH.ru-red?style=for-the-badge" height="25" alt="Resume">
   </a>
+</div>
 
+###
+
+<h2>🔍 Опыт работы</h2>
+
+#### 🧠 **MrMOZG** (2024 - н.в.)
+**Fullstack QA Engineer**  
+`Python` `Selenium` `Pytest` `CI/CD` `PostgreSQL`  
+- Разработал UI-фреймворк с нуля (100+ автотестов, сократил регресс на 40%)
+- Комплексное тестирование веб-приложения (функциональное, регрессионное, API)
+- Интеграция автотестов в GitLab CI/Jenkins
+
+#### 🏥 **PT Доктис** (2022-2024)
+**QA Engineer**  
+`Jira` `Postman` `Kibana` `JMeter` `Kafka`  
+- Тестирование медицинской системы (300K+ пользователей)
+- Обучение 10+ QA (сократил адаптацию с 3 недель до 5 дней)
+- Выявление критического бага, предотвратившего утечку данных
+
+#### 🏦 **Фиббанк** (2020-2022)
+**QA Engineer**  
+`Mobile Testing` `Charles Proxy` `Security Testing`  
+- Тестирование мобильных приложений (iOS/Android)
+- Инициация новой фичи офлайн-режима
+- Обнаружение уязвимостей данных
+
+###
+
+<h2>🛠 Технологический стек</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,selenium,pytest,postman,jira,git,github,jenkins,docker,postgresql,kafka,grafana" height="40" alt="tech stack">
+</div>
+
+###
+
+<h2>📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ВАШ_НИК&show_icons=true&theme=dracula&hide_border=true" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_НИК&layout=compact&theme=dracula&hide_border=true" height="150">
+</div>
+
+###
+
+<h2>🚀 Мои проекты</h2>
+
+- [UI Automation Framework](https://github.com/ВАШ_НИК/qa-automation-framework) - Кастомный фреймворк для веб-тестирования (Python + Selenium)
+- [API Testing Collection](https://github.com/ВАШ_НИК/api-testing-samples) - Примеры тестов API на Postman
+- [Performance Testing](https://github.com/ВАШ_НИК/jmeter-tests) - Нагрузочные тесты с JMeter
+
+###
+
+<h2>📝 Статьи и доклады</h2>
+
+- "Как построить эффективный процесс тест-дизайна в медицинских системах"
+- "Автоматизация регрессионного тестирования: от нуля до CI/CD"
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey.filimonovalexey&color=00c4ff"  />
-</div>
-
-###
-
-<h3 align="left">👨‍💻 Обо мне</h3>
-
-###
-
-<p align="left">🚀 <strong>Frontend-разработчик</strong> с фокусом на React и современных веб-технологиях<br>🎓 Выпускник <strong>Яндекс.Практикума</strong> и участник <strong>Школы 21</strong><br>📝 Пишу технические статьи на <a href="https://proglib.io/u/tehnomaniak">Proglib</a><br>💡 Увлекаюсь созданием интерактивных и доступных веб-приложений<br><br>🔧 <strong>Сейчас изучаю:</strong> Next.js, TypeScript, Unit-тестирование<br>🎯 <strong>Цель:</strong> Развиваться в направлении Fullstack-разработки</p>
-
-###
-
-<h3 align="left">📕 Популярные статьи</h3>
-
-###
-
-<div align="left">
-  • <a href="https://proglib.io/p/pishem-telegram-bota-dlya-podgotovki-k-sobesedovaniyu-na-frontend-razrabotchika-2024-05-29">Пишем Telegram-бота для подготовки к собеседованию</a><br>
-  • <a href="https://proglib.io/p/pishem-telegram-bota-dlya-filtracii-necenzurnoy-leksiki-v-chate-2024-07-15">Telegram-бот для фильтрации нецензурной лексики</a>
-</div>
-
-###
-
-<p align="center">
-  <img src="https://github.com/filimonovalexey/filimonovalexey/blob/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
-
-###
-
-<h3 align="left">🛠 Технологии и инструменты</h3>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,redux,webpack,vite,jest,git,github,figma,nodejs,express,mongodb,postgres,py,bash" height="40" alt="skills icons" />
-</div>
-
-###
-
-<h3 align="left">🔥 Моя статистика</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=filimonovalexey&theme=dark&hide_border=true&border_radius=6&mode=weekly&background=45%2C1F1F1F%2C000000" height="220" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app/?username=filimonovalexey&theme=onedark&no-frame=true&no-bg=true&margin-w=10&column=4" height="220" alt="trophies" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=filimonovalexey&show_icons=true&hide_border=true&theme=dracula&count_private=true&include_all_commits=true&hide_title=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filimonovalexey&layout=compact&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=ВАШ_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="spotify" />
-</div>
-
-###
-
-<h3 align="left">📌 Последние проекты</h3>
-
-###
-
-<div align="left">
-  • <a href="https://github.com/filimonovalexey/ПРОЕКТ_1">Название проекта 1</a> - Краткое описание<br>
-  • <a href="https://github.com/filimonovalexey/ПРОЕКТ_2">Название проекта 2</a> - Краткое описание<br>
-  • <a href="https://github.com/filimonovalexey/ПРОЕКТ_3">Название проекта 3</a> - Краткое описание
-</div>
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Спасибо_за_визит!-FF6B6B?style=for-the-badge&logoColor=white" height="25" alt="thanks badge"  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer">
 </div>
