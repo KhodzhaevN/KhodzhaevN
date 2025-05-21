@@ -22,11 +22,6 @@
   </a>
 </div>
 
-###
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blueviolet" alt="Profile Views">
-</div>
 
 ## 🛠 Технологический стек
 
