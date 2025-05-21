@@ -45,8 +45,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=30,0d0d0d,1a1a2e&title_color=5D3FD3&icon_color=5D3FD3" height="180">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=1a1a2e&stroke=5D3FD3" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=KhodzhaevN&show_icons=true&theme=radical&hide_border=true&bg_color=30,0d0d0d,1a1a2e&title_color=5D3FD3&icon_color=5D3FD3" height="180">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhodzhaevN&theme=dark&hide_border=true&background=1a1a2e&stroke=5D3FD3" height="180">
 </div>
 
 ## 📌 Примеры проектов
