@@ -9,19 +9,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=5D3FD3&center=true&vCenter=true&width=600&lines=QA+Engineer;Automation+Testing;API+Testing;CI%2FCD+Integration" alt="Animated Title" />
 </div>
 
-###
-
-<div align="center">
-  <a href="https://t.me/zoom9595">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="28">
-  </a>
-  <a href="mailto:Naii3301@yandex.ru">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28">
-  </a>
-  <a href="https://hh.ru/resume/3e7f6414ff0e922cee0039ed1f654e62484254">
-    <img src="https://img.shields.io/badge/Резюме-HH.ru-red?style=for-the-badge&logo=hh.ru&logoColor=white" height="28">
-  </a>
-</div>
 
 ## Обо мне
 
