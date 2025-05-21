@@ -26,7 +26,7 @@
 ## 🛠 Технологический стек
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytest,selenium,postman,jira,git,jenkins,docker,postgres,kafka,grafana,jmeter" height="50">
+  <img src="https://skillicons.dev/icons?i=python,selenium,postman,git,jenkins,docker,postgres,kafka,grafana," height="50">
   <img src="https://img.shields.io/badge/-Allure-FF6B6B?style=flat-square&logo=allure&logoColor=white" height="28">
   <img src="https://img.shields.io/badge/-Charles_Proxy-8DD6F9?style=flat-square&logo=charlesproxy&logoColor=black" height="28">
 </div>
