@@ -8,7 +8,7 @@
 
 <h1 align="center">Привет👋 Я Наиль —QA Engineer </h1>
 
-<h3 align="center">React | JavaScript | TypeScript | Next.js</h3>
+<h3 align="center">, AUTO | Frontend| Backend | Mobile</h3>
 
 ###
 
