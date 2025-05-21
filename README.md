@@ -8,24 +8,18 @@
 
 <h1 align="center">Привет👋 Я Наиль —QA Engineer </h1>
 
-<h3 align="center">, AUTO | Frontend| Backend | Mobile</h3>
+<h3 align="center"> AUTO | Frontend| Backend | Mobile</h3>
 
 ###
 
-<div align="center">
-  <a href="https://www.youtube.com/@tehno.maniak" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
-  <a href="https://t.me/tehnomaniak07" target="_blank">
+  <a href="https://t.me/zoom95957" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
-  <a href="https://hh.ru/resume/ВАШ_ID" target="_blank">
+  <a href="https://hh.ru/resume/3e7f6414ff0e922cee0039ed1f654e62484254" target="_blank">
     <img src="https://img.shields.io/badge/Резюме-HH.ru-red?style=for-the-badge&logo=hh.ru&logoColor=white" height="25" alt="hh logo"  />
   </a>
-  <a href="https://ko-fi.com/ВАШ_НИК" target="_blank">
-    <img src="https://img.shields.io/badge/Поддержать-Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" height="25" alt="ko-fi logo"  />
-  </a>
-</div>
+
 
 ###
 
