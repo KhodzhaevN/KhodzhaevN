@@ -42,20 +42,6 @@
 
 </div>
 
-
-## 📌 Примеры проектов
-
-<div align="left">
-  
-▸ [Автоматизация тестирования медицинской системы](https://github.com/YOUR_USERNAME/medical-tests)  
-`Python` `Selenium` `Pytest` `Allure`  
-▸ [Нагрузочные тесты банковского API](https://github.com/YOUR_USERNAME/bank-load-tests)  
-`JMeter` `Kafka` `Grafana`  
-▸ [Коллекция Postman для REST API](https://github.com/YOUR_USERNAME/api-testing-collection)  
-`Postman` `Swagger` `Newman`  
-
-</div>
-
 ###
 
 <div align="center">
@@ -77,8 +63,11 @@
 - **SQL-портфолио**: [sql-bookstore](https://github.com/MariyaGvozdetskaya/sql-bookstore)
 
 ---
+## 🔗 Автотесты на Python
+- **API**:
+- **UI**:
 
 ## 📫 Контакты
 
-- 📧 Email: m.kalyackina@yandex.ru
-- 💻 Telegram: [@gvozdetskaya_mi](https://t.me/gvozdetskaya_mi)
+- 📧 Email: Nail3301@yandex.ru
+- 💻 Telegram: [@zoom9595](https://t.me/zoom9595)
