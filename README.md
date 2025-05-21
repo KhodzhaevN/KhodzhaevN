@@ -1,9 +1,10 @@
-
 ###
 
 <div align="center">
   <h1>Привет 👋 Я Наиль</h1>
   <h2>QA Automation Engineer</h2>
+</div>
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=5D3FD3&center=true&vCenter=true&width=600&lines=QA+Engineer;Automation+Testing;API+Testing;CI%2FCD+Integration" alt="Animated Title" />
 </div>
@@ -22,7 +23,6 @@
   </a>
 </div>
 
-
 ## 🛠 Технологический стек
 
 <div align="center">
@@ -36,7 +36,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&animation=fadeIn" alt="Footer">
 </div>
-
 
 ## 🧾 Примеры тестовой документации
 
@@ -52,11 +51,30 @@
 - **SQL-портфолио**: [sql-bookstore](https://github.com/MariyaGvozdetskaya/sql-bookstore)
 
 ---
+
 ## 🔗 Автотесты на Python
-- **API**:
-- **UI**:
+
+- **API**: [Ссылка на репозиторий с API тестами]
+- **UI**: [Ссылка на репозиторий с UI тестами]
+
+---
 
 ## 📫 Контакты
 
 - 📧 Email: Nail3301@yandex.ru
 - 💻 Telegram: [@zoom9595](https://t.me/zoom9595)
+
+---
+
+## 📜 Лицензия
+
+Этот проект лицензирован в соответствии с [MIT License](LICENSE).
+
+---
+
+## 📊 Статистика
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ваш_username&show_icons=true&theme=radical" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ваш_username&layout=compact&theme=radical" height="150">
+</div>
