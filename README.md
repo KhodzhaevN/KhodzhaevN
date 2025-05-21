@@ -23,6 +23,10 @@
   </a>
 </div>
 
+## Обо мне
+
+Более 4 лет в тестировании моя экспертиза охватывает не только выявление дефектов, но и проектирование процессов, которые минимизируют их появление на этапе планирования и разработки. Постоянно развиваюсь, изучая новые технологии и подходы, особенно автоматизацию тестирования с использованием Python, Selenium и Pytest. Готов стать частью команды, чтобы вместе делать продукт качественнее и лучше.
+
 ## 🛠 Технологический стек
 
 <div align="center">
@@ -75,6 +79,6 @@
 ## 📊 Статистика
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KhodzhaevN&show_icons=true&theme=radical" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhodzhaevN&layout=compact&theme=radical" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=ваш_username&show_icons=true&theme=radical" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ваш_username&layout=compact&theme=radical" height="150">
 </div>
