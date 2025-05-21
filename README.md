@@ -5,12 +5,6 @@
 ###
 
 <div align="center">
-  <img src="https://i.imgur.com/Jyx5hoG.gif" width="800" alt="QA Automation Banner">
-</div>
-
-###
-
-<div align="center">
   <h1>Привет 👋 Я Наиль</h1>
   <h2>QA Automation Engineer</h2>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5D3FD3&width=435&lines=Python+%7C+Selenium+%7C+Pytest;API+Testing+%7C+Postman;CI%2FCD+%7C+Jenkins+%7C+GitLab;Security+Testing+%7C+JMeter" alt="Typing Animation">
