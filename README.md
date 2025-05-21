@@ -68,17 +68,10 @@
 - 📧 Email: Nail3301@yandex.ru
 - 💻 Telegram: [@zoom9595](https://t.me/zoom9595)
 
----
-
-## 📜 Лицензия
-
-Этот проект лицензирован в соответствии с [MIT License](LICENSE).
-
----
 
 ## 📊 Статистика
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ваш_username&show_icons=true&theme=radical" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ваш_username&layout=compact&theme=radical" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=KhodzhaevN&show_icons=true&theme=radical" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhodzhaevN&layout=compact&theme=radical" height="150">
 </div>
