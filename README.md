@@ -22,9 +22,9 @@ QA Automation Engineer с опытом более 4 лет. Специализи
 
 ## 🧾 Примеры тестовой документации
 
-- [Тест-кейсы](https://docs.google.com/spreadsheets/d/1CQ3No1rK1AlpXGvkM-nHjU5OdEq-06A8jZUsockDcJs/edit?usp=sharing)
-- [Баг-репорты](https://docs.google.com/spreadsheets/d/1RlOSaCMWXYnr4Suhj8Gqg-sDArDMjRGzBfhPq6sm_EQ/edit?usp=sharing)
-- [Чек-лист](https://docs.google.com/spreadsheets/d/17JLViIXNLENPTae0V0AhDKTwr2PF8BoHz3nTDa3gOxw/edit?usp=sharing)
+- [Тест-кейсы](https://docs.google.com/spreadsheets/d/16TPd2RqftH_OMmKhMAbOFnoWpVzqsEspNw5EU92ZmKY/edit?gid=162495111#gid=162495111)
+- [Баг-репорты](https://docs.google.com/spreadsheets/d/16TPd2RqftH_OMmKhMAbOFnoWpVzqsEspNw5EU92ZmKY/edit?gid=162495111#gid=162495111)
+- [Чек-лист](https://docs.google.com/spreadsheets/d/16TPd2RqftH_OMmKhMAbOFnoWpVzqsEspNw5EU92ZmKY/edit?gid=162495111#gid=162495111)
 
 ---
 
