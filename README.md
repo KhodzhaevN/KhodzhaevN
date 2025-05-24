@@ -1,3 +1,5 @@
+<img src="https://github.com/KhodzhaevN/KhodzhaevN/blob/main/banner.png?raw=true" alt="banner" width="100%">
+
 ###
 
 <div align="center">
