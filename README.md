@@ -47,10 +47,3 @@ QA Automation Engineer с опытом более 4 лет. Специализи
 - 📧 Email: Nail3301@yandex.ru
 - 💻 Telegram: [@zoom9595](https://t.me/zoom9595)
 
-
-## 📊 Статистика
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KhodzhaevN&show_icons=true&theme=radical" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhodzhaevN&layout=compact&theme=radical" height="150">
-</div>
