@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/KhodzhaevN/KhodzhaevN/main/banner.png" width="600" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KhodzhaevN/KhodzhaevN/main/banner.png" style="width: 100%; max-width: 100%;" alt="Banner">
+</p>
 
 ###
 
