@@ -31,7 +31,7 @@ QA Automation Engineer с опытом более 4 лет. Специализи
 ## 🔗 API&SQL
 
 - **Postman-коллекция**: [Смотреть коллекцию]
-- **SQL-портфолио**: 
+- **SQL-портфолио**: [sql-bookstore](https://github.com/KhodzhaevN/KhodzhaevN/tree/main/sql-bookstore)
 
 ---
 
