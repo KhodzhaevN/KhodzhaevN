@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/KhodzhaevN/KhodzhaevN/main/banner.png" width="600" />
-</div>
 
 ###
 
